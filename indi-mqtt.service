@@ -5,7 +5,7 @@ After=multi-user.target
 
 [Service]
 Type=idle
-User=nobody
+User=gnthibault
 StandardError=null
 ExecStart=/usr/bin/python3 /usr/bin/indi-mqtt.py
 Restart=always
