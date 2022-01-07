@@ -1,3 +1,2 @@
-#json >= 3.16.0
-paho-mqtt >= 1.4.0
-pyindi-client >= 0.2.4
+indi-mr==0.4.0
+paho-mqtt>=1.4.0
